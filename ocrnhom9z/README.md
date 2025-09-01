@@ -120,12 +120,3 @@ OCR Grade Table Extractor là công cụ giúp tự động **trích xuất dữ
 <img width="1843" height="1023" alt="image" src="https://github.com/user-attachments/assets/9a69ccd7-bba9-4e3e-8e2c-9d1b6c7b1cb9" />
 
 
----
-
-<p align="center">
-  ✨ Nếu thấy <b>project hữu ích</b>, đừng quên để lại cho chúng mình một ⭐ Star trên GitHub nhé! ✨  
-  <br><br>
-  👨‍💻 Được phát triển bởi <b>Nhóm 9</b> – Ngành Hệ Thống Thông Tin, Đại học Đại Nam 👩‍💻
-</p>
-
----
